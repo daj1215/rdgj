@@ -40,7 +40,7 @@
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
-				<string>CFBundleSupportedPlatforms</string>
+				<string>software</string>
 				<key>title</key>
 				<string>荣鼎国际</string>
 			</dict>
